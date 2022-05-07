@@ -1,5 +1,4 @@
-# Ichigo Front-end Interview - Eddie Hsu
-A simple React todo list.
+# ICHIGO interview - frontend
 
 ## Run
 ```bash
